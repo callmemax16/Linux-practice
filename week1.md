@@ -5,3 +5,5 @@ Today I learned
 -cd
 -mkdir
 -chmod
+-vim
+-git
