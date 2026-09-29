@@ -7,3 +7,4 @@ Today I learned
 -chmod
 -vim
 -git
+-Github push and pull
